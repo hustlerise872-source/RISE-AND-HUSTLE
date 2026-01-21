@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SkillQuest",
+  "description": "An AI-powered learning platform with gamified quests, personalized lessons, and interactive 3D learning spaces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
